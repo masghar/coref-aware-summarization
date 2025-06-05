@@ -1,5 +1,5 @@
-**Coreference-Aware Abstractive Summarization
-**Enhancing Coherence in Abstractive Summarization via Anaphora Resolution and BART
+**Coreference-Aware Abstractive Summarization**
+**Enhancing Coherence in Abstractive Summarization via Anaphora Resolution and BART**
 
 This repository implements a summarization pipeline that improves coherence and referential clarity by resolving coreference chains before summary generation. We combine a SpanBERT-based coreference resolver with BART-based abstractive summarization models, demonstrating improvements in both automatic and human evaluations.
 
